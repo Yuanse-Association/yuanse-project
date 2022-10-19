@@ -1,1 +1,10 @@
-# Hello VuePress
+---
+lang: zh-CN
+title: 欢迎来到原色Project
+description: welcome
+---
+
+# 欢迎来到原色Project
+本条目来自创作部的 「原色世界」，还在建设中 (激情打灰) ，敬请期待！  
+虽然本站尚未完善，也请欣赏我们的故事/(;>_<)/ 
+

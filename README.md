@@ -1,7 +1,7 @@
 # yuanse-project
 原色project vuepress网站仓库
 
-## 第一次安装(或者在新电脑上安装本地)
+## 第一次安装(或者在新电脑上安装)
 
 ### 克隆仓库到本地
 ```bash
