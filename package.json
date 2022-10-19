@@ -4,7 +4,7 @@
   "main": "index.js",
   "repository": "https://github.com/Yuanse-Association/yuanse-project.git",
   "author": "Hanririri <hanri.riri@gmail.com>",
-  "license": "CC-BY-CA-4.0",
+  "license": "CC-BY-SA-4.0",
   "devDependencies": {
     "vuepress": "^2.0.0-beta.51"
   },
