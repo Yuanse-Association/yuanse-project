@@ -1,9 +1,3 @@
----
-lang: zh-CN
-title: 关于本站
-description: 关于本站
----
-
 # 关于本站
 
 建设中......
