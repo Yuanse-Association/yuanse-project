@@ -4,10 +4,10 @@ export default {
     title: '原色计划',
     base: '/yuanse-project/',
     description: 'yuanse-project',
-    head: [['link', { rel: 'icon', href: `/logo-assets/touch/yuanse_logo.jpg` }]],
+    head: [['link', { rel: 'icon', href: `/logo-assets/touch/yuanse_logo.png` }]],
 
     theme: defaultTheme({
-        //contributors: false,
+        contributors: false,
         smoothScroll: true,
         
         navbar: [
@@ -15,7 +15,7 @@ export default {
             { text: 'Guide', link: '/guide/' },
             { text: 'About', link: '/about/' },
             { text: 'Weibo', link: 'https://weibo.com/u/1830011525' },
-            { text: 'Bilibili)', link:'https://space.bilibili.com/20961537'}
+            { text: 'Bilibili', link:'https://space.bilibili.com/20961537'}
         ],
 
         sidebarDepth: 2,
