@@ -1,26 +1,16 @@
 {
   "name": "yuanse-project",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
-    "build": "vuepress build docs"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Yuanse-Association/yuanse-project.git"
-  },
-  "author": "",
-  "license": "CC-BY-SA-4.0",
-  "bugs": {
-    "url": "https://github.com/Yuanse-Association/yuanse-project/issues"
-  },
-  "homepage": "https://github.com/Yuanse-Association/yuanse-project#readme",
+  "repository": "https://github.com/Yuanse-Association/yuanse-project.git",
+  "author": "Hanririri <hanri.riri@gmail.com>",
+  "license": "CC-BY-CA-4.0",
   "devDependencies": {
     "vuepress": "^2.0.0-beta.51"
   },
-  "base": "/yuanse-project/"
+  "base": "/yuanse-project/",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
 }

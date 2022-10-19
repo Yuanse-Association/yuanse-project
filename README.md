@@ -11,13 +11,13 @@ git clone https://github.com/Yuanse-Association/yuanse-project
 ### 安装本地依赖
 2022年10月19日，安装2.0.0-beta.51版本，需要手动指定
 ```bash
-npm install -D vuepress@2.0.0-beta.51
+yarn add -D vuepress@2.0.0-beta.51
 ```
 
 ### 本地试运行
 本地试运行看效果
 ```bash
-npm run docs:dev
+yarn docs:dev
 ```
 
 ## 开始内容更改创作
@@ -34,7 +34,7 @@ git pull origin main
 ### 本地试运行
 本地试运行看效果
 ```bash
-npm run docs:dev
+yarn docs:dev
 ```
 
 ### 推送到远端仓库
