@@ -15,7 +15,8 @@ export default {
             { text: 'Guide', link: '/guide/' },
             { text: 'About', link: '/about/' },
             { text: 'Weibo', link: 'https://weibo.com/u/1830011525' },
-            { text: 'Bilibili', link:'https://space.bilibili.com/20961537'}
+            { text: 'Bilibili', link:'https://space.bilibili.com/20961537'},
+            { text: 'View on Github', link:'https://github.com/Yuanse-Association/yuanse-project'}
         ],
 
         sidebarDepth: 2,
